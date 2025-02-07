@@ -2,7 +2,7 @@ import java.awt.geom.*; // for Point2D.Double
 import java.util.ArrayList; // for ArrayList
 import java.util.concurrent.TimeUnit;
 
-import gpdraw.*; // for DrawingTool
+import gpdraw.*; // for DrawingTool/////
 
 
 public class IrregularPolygon {
